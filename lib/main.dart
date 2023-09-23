@@ -1,6 +1,6 @@
-import 'package:amazon_clone/constants/app_colors.dart';
 import 'package:amazon_clone/features/auth/screens/auth_screen.dart';
 import 'package:amazon_clone/router.dart';
+import 'package:amazon_clone/utils/constants/app_colors.dart';
 import 'package:flutter/material.dart';
 
 void main() {
